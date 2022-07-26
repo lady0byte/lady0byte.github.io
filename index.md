@@ -1,4 +1,4 @@
-## Lady0byte's Checklist of 101 Concepts
+## Lady0byte's Checklists: Domains and DNS
 
 All of this information is freely available by Google searches.
 
