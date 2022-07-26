@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## Lady0byte's Checklist of 101 Concepts
 
-You can use the [editor on GitHub](https://github.com/lady0byte/lady0byte.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+All of this information is freely available by Google searches.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lady0byte/lady0byte.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I worked for a domain registrar for nearly 9 years. Here are some of the things I've learned that I consider foundational to not only attack surface discovery but attack surface hygiene, brand protection, and bad guys trying to masquerade as legitimate businesses.
